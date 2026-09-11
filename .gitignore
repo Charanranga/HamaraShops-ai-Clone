@@ -1,0 +1,34 @@
+# Eclipse
+.metadata/
+.recommenders/
+.settings/
+.project
+.classpath
+
+# IntelliJ
+.idea/
+*.iml
+
+# Java / Spring Boot
+target/
+build/
+*.class
+
+# Gradle
+.gradle/
+
+# Node
+node_modules/
+dist/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
